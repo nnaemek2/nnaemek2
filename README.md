@@ -24,4 +24,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnaemek2&layout=compact)
 
-©Copyright 2024, All Rights Reserved by I & P CORP LTD. Registered in England No. 15953458. P & A CORP LTD. Registered in England No. 15319026. Confirmation Statement, I & P CORP LTD and P & A CORP LTD are authorised to act as agent for each other.
+© 2024, All Rights Reserved by I & P CORP LTD. Registered in England No. 15953458. P & A CORP LTD. Registered in England No. 15319026. Confirmation Statement, I & P CORP LTD and P & A CORP LTD are authorised to act as agent for each other.
