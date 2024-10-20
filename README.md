@@ -7,6 +7,6 @@
 
 <a href='https://www.pnacorp.co.uk/'><img src='https://img.shields.io/badge/Home-Page-green' /></a>&nbsp;
 <a href='https://scholar.google.com/citations?user=Zkv9FqwAAAAJ&hl=en'><img src='https://img.shields.io/badge/Google-Scholar-blue' /></a>&nbsp;
-<a href='lab_qrcode.jpg'><img src='https://img.shields.io/badge/公众号-orange' /></a>&nbsp;
+<a href='p&acorp_qrcode.png'><img src='https://img.shields.io/badge/公众号-orange' /></a>&nbsp;
 <img src='https://img.shields.io/github/stars/hkuds?color=green&style=social' />&nbsp;
 <img src='https://img.shields.io/github/followers/hkuds?color=green&style=social' />
