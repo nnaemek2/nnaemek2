@@ -17,5 +17,7 @@
 [![OpenSea](https://img.shields.io/badge/OpenSea-33%20Faces%20of%20a%20Pretender-blue?style=social&logo=opensea)](https://opensea.io/collection/33-faces-of-a-pretender/overview)
 
 
-💼 If you’re interested in AI, DevOps, or ALL CODE development for hiring or business partnerships, feel free to reach out to me Paul Nnaemeka. 🤝 [![AWS Startup Showcase](https://img.shields.io/badge/AWS%20Showcase-Our_GenAI_Startup-green?style=social&logo=amazon-aws)](https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a)
+💼 If you’re interested in AI, DevOps, or ALL CODE development for hiring or business partnerships, feel free to reach out to me Paul Nnaemeka. 🤝 
+
+[![AWS Startup Showcase](https://img.shields.io/badge/AWS%20Showcase-Our_GenAI_Startup-green?style=social&logo=amazon-aws)](https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a)
 [![Upwork Agency](https://img.shields.io/badge/Upwork-Prime%20Agency-green?style=social&logo=upwork)](https://www.upwork.com/agencies/prime/)
