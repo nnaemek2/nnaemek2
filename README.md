@@ -1,7 +1,7 @@
 <img align='right' src='p&acorp_qrcode.png' width=20% />
 
 ### Hi there 👋
-✨Welcome to the <strong>Data Intelligence Lab @ I & P CORP</strong>!✨
+✨Welcome to the <strong>Data Intelligence Lab @ I & P CORP LTD</strong>✨
 
 🚀 Our Lab is Passionately Dedicated to Exploring the Forefront of the Data Science & AI 👨‍💻
 
