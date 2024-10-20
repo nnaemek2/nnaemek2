@@ -21,3 +21,5 @@
 
 [![AWS Startup Showcase](https://img.shields.io/badge/AWS%20Showcase-Our_GenAI_Startup-green?style=social&logo=amazon-aws)](https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a)
 [![Upwork Agency](https://img.shields.io/badge/Upwork-Prime%20Agency-green?style=social&logo=upwork)](https://www.upwork.com/agencies/prime/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnaemek2&layout=compact)
