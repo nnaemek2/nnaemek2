@@ -1,13 +1,20 @@
 <img align='right' src='p&acorp_qrcode.png' width=20% />
 
-### Hi there 👋
-✨Welcome to the <strong>Data Intelligence Lab @ I & P CORP LTD</strong>✨
+### Welcome to the Data Intelligence Lab 🚀</strong>✨
 
-🚀 Our Lab is Passionately Dedicated to Exploring the Forefront of the Data Science & AI 👨‍💻
+🚀 Unveiling the Future of AI & DevOps at I & P CORP LTD!
+Our lab is at the forefront of AI innovation and development, with a clear mission to drive cutting-edge solutions in data science and AI technologies. From chatbots to AWS certifications, we take pride in staying ahead of the curve to deliver exceptional results.
+
+Explore Our Specializations:
 
 <a href='https://ai.pnacorp.co.uk/'><img src='https://img.shields.io/badge/🧠_ai.%20Chatbot-8A2BE2' /></a>&nbsp;
 <a href='https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a'><img src='https://img.shields.io/badge/🏅_Certified_(AWS)_Startup-F37C23' /></a>&nbsp;
 <a href='p&acorp_qrcode.png'><img src='https://img.shields.io/badge/🧠_ai._Gov.uk%2F-_Coventry-00519e' /></a>&nbsp;
+
+Looking for AI, DevOps, or ALL CODE development expertise? Feel free to reach out for collaborations or hiring opportunities. Let’s push the boundaries of tech together.
+
+My Networks:
+
 <img src='https://img.shields.io/github/stars/nnaemek2?color=green&style=social' />&nbsp;
 <img src='https://img.shields.io/github/followers/nnaemek2?color=green&style=social' />
 [![X (formerly Twitter)](https://img.shields.io/badge/X-Cov_Hub-blue?style=social&logo=x)](https://x.com/cov_hub)
@@ -16,8 +23,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Paul%20Nnaemeka-green?style=social&logo=upwork)](https://www.upwork.com/freelancers/nnaemek2)
 [![OpenSea](https://img.shields.io/badge/OpenSea-33%20Faces%20of%20a%20Pretender-blue?style=social&logo=opensea)](https://opensea.io/collection/33-faces-of-a-pretender/overview)
 
-
-💼 If you’re interested in AI, DevOps, or ALL CODE development for hiring or business partnerships, feel free to reach out to me Paul Nnaemeka. 🤝 
+Featured Projects:
 
 [![AWS Startup Showcase](https://img.shields.io/badge/AWS%20Showcase-Our_GenAI_Startup-green?style=social&logo=amazon-aws)](https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a)
 [![Upwork Agency](https://img.shields.io/badge/Upwork-Prime%20Agency-green?style=social&logo=upwork)](https://www.upwork.com/agencies/prime/)
