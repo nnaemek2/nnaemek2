@@ -10,6 +10,7 @@ Explore Our Specializations:
 <a href='https://ai.pnacorp.co.uk/'><img src='https://img.shields.io/badge/💭_AI%20Chatbot-8A2BE2' /></a>&nbsp;
 [![Magic AI](https://img.shields.io/badge/Magic%20AI-Ultimate%20AIChatbot%20⚡️-blue?style=social&logo=magic)](https://magicai.pnacorp.co.uk/)
 [![PromptLab by PNA Corp](https://img.shields.io/badge/🔬%20PromptLab-AI%20Prompt%20Marketplace-blue?style=social&logo=lab)](https://promptlab.pnacorp.co.uk/)
+[![CodePlus by PNA Corp](https://img.shields.io/badge/🌩️%20CodePlus-Digital%20Marketplace-blue?style=social&logo=code)](https://codeplus.pnacorp.co.uk/)
 <a href='https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a'><img src='https://img.shields.io/badge/🏅_Certified_(AWS)_Startup-F37C23' /></a>&nbsp;
 <a href='p&acorp_qrcode.png'><img src='https://img.shields.io/badge/🧠_ai._Gov.uk%2F-_Coventry-00519e' /></a>&nbsp;
 
