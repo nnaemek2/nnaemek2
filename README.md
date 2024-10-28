@@ -13,7 +13,6 @@ Explore Our Specializations:
 [![CodePlus by PNA Corp](https://img.shields.io/badge/🌩️%20CodePlus-Digital%20Marketplace-blue?style=social&logo=code)](https://codeplus.pnacorp.co.uk/)
 [![Xsender by PNA Corp](https://img.shields.io/badge/☄️%20Xsender-Send%20SMS,%20Emails,%20And%20WhatsApp%20Messages%20Effortlessly.-blue?style=social&logo=sender)](https://xsender.pnacorp.co.uk/)
 <a href='https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a'><img src='https://img.shields.io/badge/🏅_Certified_(AWS)_Startup-F37C23' /></a>&nbsp;
-<a href='p&acorp_qrcode.png'><img src='https://img.shields.io/badge/🧠_ai._Gov.uk%2F-_Coventry-00519e' /></a>&nbsp;
 
 Looking for AI, DevOps, or ALL CODE development expertise? Feel free to reach out for collaborations or hiring opportunities. Let’s push the boundaries of tech together.
 
