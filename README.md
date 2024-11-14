@@ -25,6 +25,7 @@ My Networks:
 [![Credly](https://img.shields.io/badge/Credly-Paul%20Nnaemeka-blue?style=social&logo=credly)](https://www.credly.com/users/paul-nnaemeka-city-of-london)
 [![Upwork](https://img.shields.io/badge/Upwork-Paul%20Nnaemeka-green?style=social&logo=upwork)](https://www.upwork.com/freelancers/nnaemek2)
 [![OpenSea](https://img.shields.io/badge/OpenSea-33%20Faces%20of%20a%20Pretender-blue?style=social&logo=opensea)](https://opensea.io/collection/33-faces-of-a-pretender/overview)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-nnaemek2-yellow?style=social&logo=huggingface)](https://huggingface.co/nnaemek2)
 
 Featured Projects:
 
