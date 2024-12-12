@@ -9,9 +9,11 @@ Explore Our Specializations:
 
 <a href='https://ai.pnacorp.co.uk/'><img src='https://img.shields.io/badge/💭_AI%20Chatbot-8A2BE2' /></a>&nbsp;
 [![Magic AI](https://img.shields.io/badge/Magic%20AI-Ultimate%20AIChatbot%20⚡️-blue?style=social&logo=magic)](https://magicai.pnacorp.co.uk/)
+[![Davinci AI by PNA Corp](https://img.shields.io/badge/✡️%20Davinci%20AI-PNA%20Corp-blue?style=social&logo=ai)](https://davinciai.pnacorp.co.uk/)
 [![PromptLab by PNA Corp](https://img.shields.io/badge/🔬%20PromptLab-AI%20Prompt%20Marketplace-blue?style=social&logo=lab)](https://promptlab.pnacorp.co.uk/)
 [![CodePlus by PNA Corp](https://img.shields.io/badge/🌩️%20CodePlus-Digital%20Marketplace-blue?style=social&logo=code)](https://codeplus.pnacorp.co.uk/)
 [![Xsender by PNA Corp](https://img.shields.io/badge/☄️%20Xsender-Send%20SMS,%20Emails,%20And%20WhatsApp%20Messages%20Effortlessly.-blue?style=social&logo=sender)](https://xsender.pnacorp.co.uk/)
+[![GoodSound AI by PNA Corp](https://img.shields.io/badge/🎙️%20GoodSound%20AI-PNA%20Corp-blue?style=social&logo=ai)](https://ai.goodsound.pnacorp.co.uk/)
 <a href='https://aws.amazon.com/startups/showcase/startup-details/cab1ea05-43cb-4473-b665-39a13021977a'><img src='https://img.shields.io/badge/🏅_Certified_(AWS)_Startup-F37C23' /></a>&nbsp;
 
 Looking for AI, DevOps, or ALL CODE development expertise? Feel free to reach out for collaborations or hiring opportunities. Let’s push the boundaries of tech together.
