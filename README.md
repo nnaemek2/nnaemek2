@@ -36,7 +36,7 @@ Featured Projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnaemek2&layout=compact)
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=876011809" height="90">](https://api.gitsponsors.com/api/badge/link?p=Sd7Kgd/lLCprCLb7AZ+6bJISzJmjTbzROxY8aYh7ptYBbkKh7vtAu9okwCvmhBi7sFSiJJyxDXgjMKj8RxU+H+3XG07sZgx46vp4pLxMwe33Im5iPm37QUzJnP18mcsnkayi7c9OaECASUh7nflZgw==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=875551895" height="70">](https://api.gitsponsors.com/api/badge/link?p=mhg8JWysq3dZQ76EJGaUygcu1KM2hbY2oPxve9VJjrp2vYwLAAAK+7o59Q9tUfUJX2HEg/zyeiaBSpm0a3Se6b0d/xmmVbMDshfFiAdczoqygwhBfHzJuyeUY6HTGjC/)
 
 
 © 2024, All Rights Reserved by I & P CORP LTD. Registered in England No. 15953458. P & A CORP LTD. Registered in England No. 15319026. TWINSTAR BY P&A CORE FOUNDATION, LLC LIMITED, Registered in Ireland No. 5181387. Confirmation Statement: I & P CORP LTD, P & A CORP LTD, and TWINSTAR BY P&A CORE FOUNDATION, LLC LIMITED are authorised to act as agents for each other.
